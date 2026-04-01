@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_pic_1.jpeg"
+  avatar           : "Profile_pic_2.png"
   name             : "Majid Baradaran Akbarzadeh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
