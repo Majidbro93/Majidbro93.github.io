@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Profile_pic_1.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Majid Baradaran Akbarzadeh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Michigan, United State of America"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
