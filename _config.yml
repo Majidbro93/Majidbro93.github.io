@@ -27,15 +27,15 @@ author:
   name             : "Majid Baradaran Akbarzadeh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Michigan, United State of America"
-  employer         : "Red Brick University"
+  location         : "Michigan, USA"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "baradara@msu.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=85GZHhYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
